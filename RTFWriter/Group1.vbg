@@ -1,0 +1,3 @@
+VBGROUP 5.0
+Project=RTFWriter.vbp
+StartupProject=Test\Calendar.vbp
